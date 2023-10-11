@@ -13,7 +13,7 @@ Los accidentes aéreos son eventos trágicos y altamente impactantes que a menud
 *Recopilación de Datos*
 Para llevar a cabo este análisis, se trabajo con AccidentesAereos.csv, que incluye registros de accidentes aéreos, informes de investigaciones, estadísticas de vuelos y factores relacionados con la seguridad. Estos datos se han limpiado y procesado para garantizar su calidad y coherencia.
 
-![Imagen2](![Captura de pantalla 2023-10-11 112854](https://github.com/Galateax/ProyectoDataAnalysis/assets/114771363/5ceb4cd1-be52-48d9-b72e-6c32f81b73aa)
+![Captura de pantalla 2023-10-11 112854](https://github.com/Galateax/ProyectoDataAnalysis/assets/114771363/5ceb4cd1-be52-48d9-b72e-6c32f81b73aa)
 
 
 # Análisis Exploratorio de Datos
