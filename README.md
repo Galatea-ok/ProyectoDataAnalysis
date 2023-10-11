@@ -34,6 +34,9 @@ A continuacion presentare algunas observaciones sobre el EDA aplicado:
 # Conclusiones
 A partir del análisis de datos, se han extraído algunas conclusiones importantes que pueden ayudar en la prevención de accidentes aéreos:
 
+Como causa principal se encuentra la falta de regulación. Las normas de seguridad aérea no eran tan estrictas en el siglo XX como lo son hoy en día. Esto se debió a una combinación de factores, como la falta de conocimiento sobre los riesgos de la aviación y la presión de la industria para reducir los costes. Errores humanos como este condujeron a la mayor cantidad de fatalidades, sin mencionar la guerra mundial.
+Otro factor de los accidentes aéreos en el pasado eran la falta de experiencia ya que para reducir costes no se entrenaba apropiadamente a los pilotos.
+
 ### Formación y Entrenamiento: Es esencial invertir en la formación y el entrenamiento continuo de la tripulación y el personal de mantenimiento para reducir errores humanos.
 
 ### Mantenimiento de Aeronaves: Mantener las aeronaves en óptimas condiciones técnicas es crítico para evitar problemas técnicos que puedan resultar en accidentes.
